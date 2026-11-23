@@ -52,3 +52,6 @@ next-env.d.ts
 !.dev.vars.example
 yarn.lock
 wrangler.prod.jsonc
+
+# Demo video purged from history 2026-11-24 (copy in Drive)
+docs/*.mp4
